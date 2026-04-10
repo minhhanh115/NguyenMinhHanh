@@ -169,4 +169,5 @@ Mở cửa sổ gõ lệnh trong SSMS, mở file **dulieu.sql** của mục 14 v
 
 Upload file **dulieu.sql** lên repository GitHub cá nhân.
 
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/8f5739b8-71a2-429d-8643-39b9e714af43" />
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/a8a7fb62-a339-4515-a393-83a925d2e1e4" />
+
