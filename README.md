@@ -160,7 +160,8 @@ Kiểm tra các file sau khi xóa.
 Mở cửa sổ gõ lệnh trong SSMS, mở file **dulieu.sql** của mục 14 và chạy toàn bộ các lệnh.
 
 
-<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/5da2b5c0-d874-46b8-b4d0-bae01e50e086" />
+![z7710322147109_9004da8092e7342df7a56a0985ccf5e9](https://github.com/user-attachments/assets/72a55c82-d691-4a5b-b5de-3fc5cc46203c)
+
 
 
 
