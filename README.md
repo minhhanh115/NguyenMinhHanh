@@ -1,5 +1,5 @@
 # NguyenMinhHanh
-BTVN
+K235480106023- BTVN
 # Bài tập môn Hệ quản trị cơ sở dữ liệu, Lớp: 59KMT
 
 ---
@@ -43,10 +43,12 @@ Servername: `localhost,xxxxx` (với `xxxxx` là cổng đã chọn ở mục 2)
 <img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/962a1f72-24fd-4a00-92dc-abf3afa55443" />
 
 SQL Server Authentication:
-<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/8da6283f-1842-4286-b5ce-c6e39eb4a609" />
+![z7710075981529_cdaa28ecc1d35bfbda1756abbb86c538](https://github.com/user-attachments/assets/126ae942-c2c4-4898-978e-faa89ed5bc34)
 
 
 ---
+
+
 
 ## 6. Tạo cơ sở dữ liệu mới
 
